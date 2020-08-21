@@ -14,8 +14,8 @@ class Tomcatat6 < Formula
   depends_on :java
 
   resource "fulldocs" do
-    url "https://www.apache.org/dyn/closer.cgi?path=/tomcat/tomcat-6/v6.0.53/bin/apache-tomcat-6.0.53-fulldocs.tar.gz"
-    sha256 "3465db40f8b6f048e0733444668e4a40e9814855e5112762f3bb14e45eb9724a"
+    url "https://archive.apache.org/dist/tomcat/tomcat-6/v6.0.53/bin/apache-tomcat-6.0.53-fulldocs.tar.gz"
+    md5 "183feb4e24d2d6a2750d39055893a1c1"
   end
 
   def install
