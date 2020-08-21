@@ -1,4 +1,4 @@
-class Tomcatat6 < Formula
+class Tomcat6 < Formula
   desc "Implementation of Java Servlet and JavaServer Pages"
   homepage "https://tomcat.apache.org/"
   url "https://www.apache.org/dyn/closer.cgi?path=tomcat/tomcat-6/v6.0.53/bin/apache-tomcat-6.0.53.tar.gz"
